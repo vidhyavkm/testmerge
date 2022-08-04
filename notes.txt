@@ -1,0 +1,36 @@
+contents:
+XMLHttpRequest
+hoisting and scope
+Introduction to functions
+
+what is XML http request?
+XML extensible markup language
+it contains 4 steps
+API: application programming interface
+
+status codes:
+100-199 : hold on
+200-299 : here u go
+
+1. Write a code to print all the countries names only,  in the console.
+2. Write a code to print all the continents names of each country, in the console.
+3. Write a code to print all the capitals names only,  in the console.
+4. Write a code to print all the countries names, capitals and flags in one line.
+
+hoisting: move to top
+
+scope:
+ 3 types
+functions:
+named 
+anonymous
+
+
+
+
+
+
+
+
+
+
